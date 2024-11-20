@@ -5,15 +5,12 @@ This is a simple Meme Generator application built using React and styled with Ta
 ## Features
 
 - Generate random memes from a collection of pre-defined images and captions.
-- Upload custom images and add text to create personalized memes.
 - Customize text placement, size, and styling on memes.
-- Fully responsive design, thanks to Tailwind CSS.
 
 ## Tech Stack
 
 - **Frontend**: React.js
 - **CSS Framework**: Tailwind CSS
-- **Hosting**: [Vercel](https://vercel.com) (or any platform of your choice)
 
 ## Installation
 
@@ -22,3 +19,13 @@ To get started with the project locally, follow the steps below:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your-username/meme-generator.git
+2. Navigate into the project directory:
+   ```bash
+      cd meme-generator
+3. Install dependencies:
+ ```bash
+      npm install
+      npm start
+
+ 
+      
