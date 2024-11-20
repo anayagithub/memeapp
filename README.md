@@ -1,7 +1,7 @@
 # Meme Generator App
 
 This is a simple Meme Generator application built using React and styled with Tailwind CSS. The app allows users to generate random memes or upload their own images to create custom memes. It's a fun way to explore React with a focus on dynamic content and styling.
-![Alt text](Screenshot%202024-11-20%20140431.png)
+![Alt text](imageMeme.png)
 
 
 ## Features
