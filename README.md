@@ -28,7 +28,7 @@ To get started with the project locally, follow the steps below:
  ```bash
       npm install
       npm start
-
+```
  
- #🎥 Live Demo   
+ ##🎥 Live Demo   
  https://memeapp-lime.vercel.app/
